@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.cool,
+.cooler {
+    background-color: #f38b8b;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#number-02 {
+    color: #1703c9;
+    font-size: 36px;
+}
+
+#number-04 {
+    background-color: #33db7f;
+    font-size: 24px;
+    font-weight: 700;
+}
+
