@@ -10,6 +10,8 @@
     font-size: 24px;
 }
 
+/* solution appears to suggest that classes can be stacked at the html end instead or as well as in here */
+
 #number-02 {
     color: #1703c9;
     font-size: 36px;
