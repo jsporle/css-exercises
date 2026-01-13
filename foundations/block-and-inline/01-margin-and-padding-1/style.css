@@ -26,4 +26,5 @@ body {
   padding: 32px;
   margin-left: 330px;
   /* padding and border need to be considered both sides of the text times 2 and subtract from max-width */
+  /* "auto" would also right justify with margin-left */
 }
